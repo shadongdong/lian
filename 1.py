@@ -9,3 +9,17 @@ def aa():
     
     
   
+    
+    a='dsafadsfdasfasdgasdgasdgasdgasdgs'
+    
+    
+    b='''dsfdsafdasfadsfasdf
+'''
+
+
+
+11111
+''
+dafdsfdasfads
+dfasdfasfads
+fdasfsafdsafdasfadsf
